@@ -25,7 +25,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`audinter` was created by Antónia Brito. It is licensed under the terms of the MIT license.
+`audinter` was created by Antónia Brito and Moisés Santos. It is licensed under the terms of the GPL-3.0.
 
 ## Credits
 
